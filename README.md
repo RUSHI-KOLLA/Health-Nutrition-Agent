@@ -25,6 +25,20 @@ Provides diet suggestions and basic guidance based on user-reported symptoms.
 -> Session Memory to remember previous user inputs
 -> CLI & ADK Web UI for easy access
 
+# Project Structure
+
+├── adkagents/
+│   └── agenthealth/
+│        ├── __init__.py
+│        ├── agent.py
+│        ├── cli_runner.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+
+
+
 
 https://github.com/user-attachments/assets/ea6b67d0-e9fe-4962-961a-6af67d59bffe
 
