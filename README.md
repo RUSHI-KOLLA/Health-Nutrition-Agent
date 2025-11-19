@@ -42,7 +42,22 @@ Web:
    adk web
 
 ```
+
+# APIs & Services Used
+
+```
+-> This project uses the following APIs and services:
+
+-> Gemini API (Google AI Studio)
+     Used to generate diet suggestions, health reasoning, and intelligent responses based on user input.
+
+-> Google CSE ID (Custom Search Engine ID)
+     Used to configure and authenticate the custom search engine inside ADK for retrieving accurate real-time health and nutrition information.
+
+-> Google Search API
+     Accessed through ADK’s Search Tool to fetch relevant data, articles, and dietary insights from the web.
 # Project Structure
+```
 
 ```
 Health-Nutrition-Agent/
